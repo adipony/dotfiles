@@ -1,0 +1,69 @@
+{
+   "checksum": "416ce6d3d6b526ddab8b6ef99f0763c9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13377812525805888",
+            "date_last_used": "0",
+            "guid": "f1da0fe2-b649-4ded-8fe2-187bc2bba441",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home | SpaceHey",
+            "type": "url",
+            "url": "https://spacehey.com/home"
+         }, {
+            "date_added": "13377812537213838",
+            "date_last_used": "0",
+            "guid": "841d32b4-5d80-4aaa-a853-a5911b976fb1",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Inbox",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13377813653353275",
+            "date_last_used": "0",
+            "guid": "ec1bf5a4-91bf-4593-bf4b-f39f7fa30a2a",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/adipony"
+         } ],
+         "date_added": "13377812187598041",
+         "date_last_used": "0",
+         "date_modified": "13377813653353275",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13377812187598043",
+         "date_last_used": "0",
+         "date_modified": "13377812525805888",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13377812187598044",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

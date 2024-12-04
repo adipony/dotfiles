@@ -1,0 +1,14 @@
+2024-12-04T19:18:10.593Z 0: 
+
+----------------------------------------------
+2024-12-04T19:18:10.597Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.76"}, modulepath: /home/adi/.config/discord/0.0.76/modules
+2024-12-04T19:18:10.598Z 2: ✅ webContents.created web1 ""
+2024-12-04T19:18:10.599Z 3: ✅ window.created win1 "discord"
+2024-12-04T19:18:10.735Z 4: ✅ webContents.did-finish-load web1
+2024-12-04T19:18:15.302Z 5: ✅ webContents.created web2 ""
+2024-12-04T19:18:15.340Z 6: ✅ window.created win2 "Discord"
+2024-12-04T19:18:17.453Z 7: ✅ webContents.did-finish-load web2
+2024-12-04T19:18:17.553Z 8: window.close win1
+2024-12-04T19:18:17.854Z 9: webContents.destroyed web1
+2024-12-04T19:18:17.855Z 10: window.closed win1
+2024-12-04T19:18:43.049Z 11: window.close win2

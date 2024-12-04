@@ -1,0 +1,8 @@
+2024/12/04-18:56:27.637 4 Creating DB /home/adi/.config/chromium/Profile 1/Session Storage since it was missing.
+2024/12/04-18:56:27.640 4 Reusing MANIFEST /home/adi/.config/chromium/Profile 1/Session Storage/MANIFEST-000001
+2024/12/04-19:06:06.004 5 Level-0 table #5: started
+2024/12/04-19:06:06.039 5 Level-0 table #5: 221457 bytes OK
+2024/12/04-19:06:06.040 5 Delete type=0 #3
+2024/12/04-19:06:56.415 5 Level-0 table #7: started
+2024/12/04-19:06:56.446 5 Level-0 table #7: 138310 bytes OK
+2024/12/04-19:06:56.447 5 Delete type=0 #4

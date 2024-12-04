@@ -1,0 +1,14 @@
+2024/12/04-18:56:27.598 4 Creating DB /home/adi/.config/chromium/Profile 1/Local Storage/leveldb since it was missing.
+2024/12/04-18:56:27.601 4 Reusing MANIFEST /home/adi/.config/chromium/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2024/12/04-18:59:17.729 5 Level-0 table #5: started
+2024/12/04-18:59:17.762 5 Level-0 table #5: 50883 bytes OK
+2024/12/04-18:59:17.763 5 Delete type=0 #3
+2024/12/04-18:59:38.500 5 Level-0 table #7: started
+2024/12/04-18:59:38.558 5 Level-0 table #7: 35979 bytes OK
+2024/12/04-18:59:38.559 5 Delete type=0 #4
+2024/12/04-19:21:12.608 5 Level-0 table #9: started
+2024/12/04-19:21:12.642 5 Level-0 table #9: 21866 bytes OK
+2024/12/04-19:21:12.643 5 Delete type=0 #6
+2024/12/04-19:34:01.243 5 Level-0 table #11: started
+2024/12/04-19:34:01.278 5 Level-0 table #11: 193817 bytes OK
+2024/12/04-19:34:01.279 5 Delete type=0 #8

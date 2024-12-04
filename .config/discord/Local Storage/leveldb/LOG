@@ -1,0 +1,5 @@
+2024/12/04-19:18:10.515 13bd Creating DB /home/adi/.config/discord/Local Storage/leveldb since it was missing.
+2024/12/04-19:18:10.520 13bd Reusing MANIFEST /home/adi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/12/04-19:22:34.670 13be Level-0 table #5: started
+2024/12/04-19:22:34.715 13be Level-0 table #5: 3322297 bytes OK
+2024/12/04-19:22:34.716 13be Delete type=0 #3
