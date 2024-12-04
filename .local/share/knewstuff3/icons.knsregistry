@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Papirus</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1166289</homepage>
+  <licence></licence>
+  <version>20240501</version>
+  <rating>93</rating>
+  <downloads>148696</downloads>
+  <installedfile>/home/adi/.local/share/icons/Papirus-Dark/*</installedfile>
+  <installedfile>/home/adi/.local/share/icons/ePapirus-Dark/*</installedfile>
+  <installedfile>/home/adi/.local/share/icons/Papirus-Light/*</installedfile>
+  <installedfile>/home/adi/.local/share/icons/ePapirus/*</installedfile>
+  <installedfile>/home/adi/.local/share/icons/Papirus/*</installedfile>
+  <id>1166289</id>
+  <releasedate>2024-05-02</releasedate>
+  <summary>Papirus - it's free and open source SVG-based icon theme for Linux with material and flat style.&lt;br />
+All elements have clear distinction and outlines. Also main feature - it's jucy colors tone.&lt;br />
+&lt;br />
+Papirus support hardcode-tray script:&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/80/78/1166289/ad0f14c12a71f289fa3632bf2835f6bb9d251967c1665cb661f60931346ab663c838.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/80/78/1166289/ad0f14c12a71f289fa3632bf2835f6bb9d251967c1665cb661f60931346ab663c838.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQ2NzQ1NzUiLCJvIjoiMSIsInMiOiI2NGFhZDYzZmZlOTg0YzEwOGM4NjlmZGZiNmM3ODc2OGEwYjcyNjE2NGY3MzZlZmFhMGUyNzY2ZDI0ZmM3YTc0ODU5MzBkNDJkODMyYWNhMTk1MGI0NzJmYjgyZGJlMDdlMWQ2YmJlYTllZTAyZjA5NDc3OTk0ZTA5YTc4MWMzZiIsInQiOjE3MzMzNDMyNTUsInN0ZnAiOm51bGwsInN0aXAiOiIxNDcuMjM1LjE5My4xOTUifQ.SDrrS5oWAlEZOXx-4B51iZRCB5Ly6wnkRVnMWGkrOCc/papirus-icon-theme-orange-folders.tar.xz</payload>
+  <tags>unix,papirus,linux,icon-theme,icons,gplv3,material,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

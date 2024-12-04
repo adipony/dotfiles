@@ -1,0 +1,5 @@
+QIODevice::readLine (QFile, "/home/adi/.config/kdedefaults/package"): device not open
+/usr/bin/xrdb: Can't open display ''
+/usr/bin/xsetroot:  unable to open display ''
+QPixmap: QGuiApplication must be created before calling defaultDepth().
+QPixmap: QGuiApplication must be created before calling defaultDepth().

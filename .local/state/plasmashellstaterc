@@ -1,0 +1,12 @@
+[General]
+SystemInstallDate=2024-12-04
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/wallpaper.jpg
+Recent URLs[$e]=file:$HOME/
+
+[KickerRunnerManager]
+LaunchCounts=3 krunner_systemsettings_kcm_lookandfeel,1 exec:///usr/bin/systemsettings,1 exec:///usr/bin/discord
+
+[KickerRunnerManager][History]
+aa0873f5-392c-48a8-bd0b-aa91814139ea=system,theme,disc,global,mous,chro

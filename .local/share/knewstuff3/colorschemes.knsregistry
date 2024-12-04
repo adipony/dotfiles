@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Coffee Plasma Color Scheme</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>charlie-henson</author>
+  <homepage>https://store.kde.org/p/1456513</homepage>
+  <licence></licence>
+  <version>Coffee Color Scheme</version>
+  <rating>58</rating>
+  <downloads>1395</downloads>
+  <installedfile>/home/adi/.local/share/color-schemes/Coffee.colors</installedfile>
+  <id>1456513</id>
+  <releasedate>2020-12-06</releasedate>
+  <summary>Built on Breeze&lt;br />
+Icons used are from l4k1, Infinity Light  https://store.kde.org/p/1436567/&lt;br />
+Thanks for looking</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/33/91/33/1456513/189ed30dbd2019c3a48d00552dd63ded4f3af9d47dbeab336e0804478610760cf8fd.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/33/91/33/1456513/189ed30dbd2019c3a48d00552dd63ded4f3af9d47dbeab336e0804478610760cf8fd.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDczMTM4NzkiLCJvIjoiMSIsInMiOiJmMTg4NzUzMjZiMjE4NGUwYzdhNTU5OTU4NWM5NzE2YTk4ZDRkZWIyYTczZTM1NDFiMWE1ZDBkMDdkZDUzYjYwNWY2NWQyYzUxNjc5NzI3ZWNmMWYzOWVmMGY5NTZkMjBlYThhN2U4ZThlNWU4MjdjZjEzYThmZWYxNzQ0ZWZiOSIsInQiOjE3MzMzNDQwOTcsInN0ZnAiOm51bGwsInN0aXAiOiIxNDcuMjM1LjE5My4xOTUifQ.jcgTloxYf1mK80svTxzv0bfdkS-trG-wyMc9W_yV6Tg/Coffee.colors</payload>
+  <tags>cc0,unix,theme,scheme,plasma,original-product,coffee,color,colorscheme,kde,impress,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Coffee Break</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>Sandrone</author>
+  <homepage>https://store.kde.org/p/1220617</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1663</downloads>
+  <installedfile>/home/adi/.local/share/color-schemes/CoffeeBreak.colors</installedfile>
+  <id>1220617</id>
+  <releasedate>2018-03-07</releasedate>
+  <summary>Coffee color theme. Warning: may contain traces of caffeine.&lt;br />
+Enjoy and feedback.&lt;br />
+&lt;br />
+Put the color-scheme in:&lt;br />
+~/.kde/share/apps/color-schemes/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/45/58/59/1220617/3b1fcd770774e848a4c25bf6b4216749f1c1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/45/58/59/1220617/3b1fcd770774e848a4c25bf6b4216749f1c1.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MjA0NDMxMTMiLCJvIjoiMSIsInMiOiIyN2ViYzQ4MjU3Njg4MWJiMjUzZjE1NjgwNGIyN2UxYTlkZjRiNjkzMTEyOWUzYzdjODMwNGViYzJiYjNjMTcxNzlhZTI2YWQxN2IwZDFjYTY1MTczN2QxYjQzMmE4NmIxMjBlODYzYTEyOTk3OGUwMzNiM2FjYWQwYzE3NmY3ZiIsInQiOjE3MzMzNDQyMTgsInN0ZnAiOm51bGwsInN0aXAiOiIxNDcuMjM1LjE5My4xOTUifQ.RBgcZvLF1IHwNWTN8tDfg9tubs6a9KlEHxRm1bxdcLg/CoffeeBreak.colors</payload>
+  <tags>kde,gplv3,linux,plasma,theme,unix,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

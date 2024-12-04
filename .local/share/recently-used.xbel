@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/adi/Downloads/wallpaper.jpg" added="2024-12-04T19:07:03.137000Z" modified="2024-12-04T19:07:20.047000Z" visited="2024-12-04T19:07:20.047000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-12-04T19:07:03.137000Z" count="1"/>
+        <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2024-12-04T19:07:20.047000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://discordapp.com/handoff?rpc=6463&amp;key=b40f923c-787d-4732-a386-e16b5cfa1f07" added="2024-12-04T19:18:18.720000Z" modified="2024-12-04T19:18:18.720000Z" visited="2024-12-04T19:18:18.720000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.falkon" exec="falkon %u" modified="2024-12-04T19:18:18.720000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
