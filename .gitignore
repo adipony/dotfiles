@@ -1,0 +1,15 @@
+.ssh/
+
+**/*.log
+
+Desktop/
+Downloads/
+Documents/
+Pictures/
+
+.config/discord/
+.config/chromium/
+
+.bun/
+
+.pki/
