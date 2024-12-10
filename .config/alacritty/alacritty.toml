@@ -1,0 +1,16 @@
+[window]
+decorations = "Full"
+opacity = 0.7
+blur = true
+
+[colors]
+# foreground = "#ECE0D1"
+# background = "#38220F"
+
+[terminal]
+shell = "zsh"
+
+[font]
+# normal = { family = "Noto Sans", style = "Regular" }
+# bold = { family = "Noto
+size = 12
